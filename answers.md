@@ -73,4 +73,15 @@ nothing to commit, working tree clean
 
 ### Task 7
 
+1. Nom de la branche
+2. ID du commit
+3. Titre du commit
+4. Auteur
+5. Version officielle de la brache main
+6. Dernier commit (HEAD) de la branche bleue merge avec la branche jaune
+7. Branche checkout de la dernière version du main
+8. Dernière version officielle du main merge avec la branche bleue
+9. Branche checkout de l'initial commit
+10. Initial commit, début du projet
+
 ![Gitgraph](img/gitgraph.svg)gitgraph.svg)
