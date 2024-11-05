@@ -32,6 +32,8 @@ nothing to commit, working tree clean
 ```
 ### Task 3
 
+Comme répondu précédemment le status actuel de git est sur la branche principale sans problème car il n'y a pas de fichier a commit
+
 ### Task 4
 
 ### Task 5
