@@ -62,6 +62,13 @@ La chaine de caractère au début est l'identifiant du commit ce qui le rend uni
 
 ### Task 6
 
+Lorsque qu'on sélectionne un checkout de commit on revient en arrière en partant de ce commit pour effectuer une nouvelle branche voici le status si on sélectionne le initial commit :
+```
+HEAD detached at 5da930b
+nothing to commit, working tree clean
+```
+
+
 ## Gitgraph
 
 ### Task 7
