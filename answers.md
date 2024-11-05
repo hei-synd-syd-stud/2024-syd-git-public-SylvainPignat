@@ -36,7 +36,29 @@ Comme répondu précédemment le status actuel de git est sur la branche princip
 
 ### Task 4
 
+Le status après avoir commit la modification du readme est le suivant :
+```
+On branch main
+Your branch is ahead of 'origin/main' by 5 commits.
+  (use "git push" to publish your local commits)
+
+nothing to commit, working tree clean
+```
+Il y a plus de commit qu'avant cela correspond aux exercices précédents.
+
 ### Task 5
+
+La commande ``git log --oneline`` donne :
+```
+5660b35 (HEAD -> main) Exercice 4
+f60035c Exercice 3
+6f1c69b Exercice 2
+92c0698 README creation
+a99ad3a Exercice 1
+f08b86a (origin/main, origin/HEAD) Exercise 0 : Name and username
+5da930b Initial commit
+```
+La chaine de caractère au début est l'identifiant du commit ce qui le rend unique, le (HEAD) représente le dernier commit d'une branche et le main représente l'arbre principal, ensuite il y a le titre du commit.
 
 ### Task 6
 
